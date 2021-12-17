@@ -4,7 +4,7 @@ status = "";
 
 function preload()
 {
-	song = loadSound("alert.mp3");
+	song = loadSound("alert.mp3.mp3");
 }
 
 function setup() {
